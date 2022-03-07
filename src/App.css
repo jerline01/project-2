@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  width: 500px;
+}
+
+h1 {
+  padding: 20px 0 50px;
+}
+
+/* .card {
+  display: inline;
+  width: 50%;
+  text-align: center;
+} */
+
+.container {
+  padding-bottom: 50px;
+}
+
+
